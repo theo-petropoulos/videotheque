@@ -562,7 +562,7 @@ url("images/techbg.jpg");
 @keyframes move_left { from { margin-right:5%; } to { margin-right:7%; }  }
 
 #tech_main_block label img:hover{
-	transform:scale(115%,115%);
+	transform:scale(1.2);
 	transition: all 0.3s ease-in;
 }
 
@@ -768,7 +768,7 @@ url("images/techbg.jpg");
 }
 
 #tech_gallery a:hover{
-	transform:scale(120%);
+	transform:scale(1.2);
 	transition:all 0.5s;
 	z-index:10;
 }
